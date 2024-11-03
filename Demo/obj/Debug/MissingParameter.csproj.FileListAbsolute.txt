@@ -1,0 +1,16 @@
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\z004hncn\Downloads\Demo\Demo\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\MissingParameter.csprojAssemblyReference.cache
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\MissingParameter.csproj.GenerateResource.cache
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\MissingParameter.csproj.CoreCompileInputs.cache
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\MissingParameter.csproj.CopyComplete
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\z004hncn\Downloads\Demo\Demo\obj\Debug\Demo.pdb
